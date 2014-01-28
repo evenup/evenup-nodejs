@@ -1,0 +1,4 @@
+fixtures:
+  symlinks:
+    nodejs: "#{source_dir}"
+
